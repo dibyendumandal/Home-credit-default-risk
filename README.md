@@ -1,5 +1,5 @@
 # Home credit default risk @ Kaggle
-*My Jupyter notebooks associated with the Kaggle competition [Home credit default risk](https://www.kaggle.com/c/home-credit-default-risk).*
+*My Jupyter notebooks associated with the Kaggle competition [Home credit default risk](https://www.kaggle.com/c/home-credit-default-risk).  We scored *
 
 In these notebooks I describe some of our attempts at the [Home credit default risk](https://www.kaggle.com/c/home-credit-default-risk) organized at Kaggle using the [Scikit-Learn library](http://scikit-learn.org/stable/).  By "we", I mean a tem of a biology graduate student, a physics postdocdoctoral scholar (me), and a software professional.  It was the first Kaggle competition for all of us, and an enriching experience!
 
@@ -27,4 +27,4 @@ We also performed hyperparameter tuning using grid search.
 * **[combined_data_with_missing_entries_removed.ipynb](https://github.com/dibyendumandal/Home-credit-default-risk/blob/master/combined_data_with_missing_entries_removed.ipynb)**
 * **[combined_data_with_subsampling.ipynb.](https://github.com/dibyendumandal/Home-credit-default-risk/blob/master/Combined_data_with_subsampling.ipynb)**
 
-Analyses with combined data. 
+Finally, we completed our analyses with combined data. 
