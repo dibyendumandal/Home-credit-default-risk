@@ -28,6 +28,6 @@ We approached the problem in three steps:
 * **[combined_data_with_missing_entries_removed.ipynb](https://github.com/dibyendumandal/Home-credit-default-risk/blob/master/combined_data_with_missing_entries_removed.ipynb)**
 * **[combined_data_with_subsampling.ipynb.](https://github.com/dibyendumandal/Home-credit-default-risk/blob/master/Combined_data_with_subsampling.ipynb)**
 
- **We scored 0.742 (out of 1).**
+ We scored 0.742 (out of 1).
 
 
