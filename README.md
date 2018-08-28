@@ -22,7 +22,7 @@ We approached the problem in three steps:
 
 * **[application_data_only_with_all_features.ipynb](https://github.com/dibyendumandal/Home-credit-default-risk/blob/master/application_data_only_with_all_features.ipynb)**. Analysis with all the features
 
-**(3)** Finally, we played with the combined data from all the tables utilizing various kernels posted in the competition site.(using same methodology as described in step **1**).
+**(3)** Finally, we played with the combined data from all the tables utilizing various kernels posted in the competition site(using same methodology as described in step **1**).
 
 * **[combined_data.ipynb](https://github.com/dibyendumandal/Home-credit-default-risk/blob/master/combined_data.ipynb)**
 * **[combined_data_with_missing_entries_removed.ipynb](https://github.com/dibyendumandal/Home-credit-default-risk/blob/master/combined_data_with_missing_entries_removed.ipynb)**
